@@ -1,0 +1,237 @@
+{
+  "filemd5":"AEEE996FD3484F28E5CD85FE26B6BDCD",
+  "filename":"res3.exe",
+  "structures": {
+    "cls_0x4019f0": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4019f6", "0x401a10" ]
+	},
+	"0x2": {
+	  "base":false,
+	  "name":"mbr_0x2",
+	  "offset":"0x2",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4019f3" ]
+	}
+      },
+      "methods": {
+	"0x4019f0": {
+	  "demangled_name":"",
+	  "ea":"0x4019f0",
+	  "import":false,
+	  "name":"meth_0x4019f0",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x4019f0",
+      "size":6,
+      "vftables": {}
+    },
+    "cls_0x4066f9": {
+      "demangled_name":"",
+      "members": {
+	"0x8": {
+	  "base":false,
+	  "name":"mbr_0x8",
+	  "offset":"0x8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4066ff" ]
+	},
+	"0xc": {
+	  "base":false,
+	  "name":"mbr_0xc",
+	  "offset":"0xc",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4066f9" ]
+	}
+      },
+      "methods": {
+	"0x4066f9": {
+	  "demangled_name":"",
+	  "ea":"0x4066f9",
+	  "import":false,
+	  "name":"meth_0x4066f9",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x4066f9",
+      "size":13,
+      "vftables": {}
+    },
+    "cls_0x40c359": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40c370" ]
+	}
+      },
+      "methods": {
+	"0x40c359": {
+	  "demangled_name":"",
+	  "ea":"0x40c359",
+	  "import":false,
+	  "name":"meth_0x40c359",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x40c359",
+      "size":4,
+      "vftables": {}
+    },
+    "cls_0x414527": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x41458e" ]
+	}
+      },
+      "methods": {
+	"0x414527": {
+	  "demangled_name":"",
+	  "ea":"0x414527",
+	  "import":false,
+	  "name":"meth_0x414527",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x414527",
+      "size":4,
+      "vftables": {}
+    },
+    "cls_0x417b70": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x417b72", "0x417b78", "0x417b84", "0x417b99" ]
+	},
+	"0x1": {
+	  "base":false,
+	  "name":"mbr_0x1",
+	  "offset":"0x1",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x417b97", "0x417b9d" ]
+	}
+      },
+      "methods": {
+	"0x417b70": {
+	  "demangled_name":"",
+	  "ea":"0x417b70",
+	  "import":false,
+	  "name":"meth_0x417b70",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x417b70",
+      "size":2,
+      "vftables": {}
+    },
+    "cls_0x417db2": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x417db4", "0x417dba", "0x417dc6", "0x417ddb" ]
+	},
+	"0x1": {
+	  "base":false,
+	  "name":"mbr_0x1",
+	  "offset":"0x1",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x417dd9", "0x417ddf" ]
+	}
+      },
+      "methods": {
+	"0x417db2": {
+	  "demangled_name":"",
+	  "ea":"0x417db2",
+	  "import":false,
+	  "name":"meth_0x417db2",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x417db2",
+      "size":2,
+      "vftables": {}
+    },
+    "cls_0x41994d": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x419999" ]
+	}
+      },
+      "methods": {
+	"0x41994d": {
+	  "demangled_name":"",
+	  "ea":"0x41994d",
+	  "import":false,
+	  "name":"meth_0x41994d",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x41994d",
+      "size":4,
+      "vftables": {}
+    }
+  },
+  "vcalls": {},
+  "version":"2.2.0"
+}

@@ -1,0 +1,16 @@
+megs: 512
+
+# Uncomment these two lines if you're on Windows
+# romimage: file="BIOS-bochs-latest"
+# vgaromimage: file="VGABIOS-lgpl-latest"
+
+boot: cdrom, disk
+ata0-master: type=disk, path="NotPetyaWIP.img", mode=flat
+mouse: enabled=0
+cpu: ips=90000000
+
+# Uncomment if you're on Linux and you're using the GUI
+display_library: x, options="gui_debug"
+
+# Uncomment if you're on Windows and you're using the GUI
+# display_library: win32, options="gui_debug"

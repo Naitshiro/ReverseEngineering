@@ -1,0 +1,129 @@
+{
+  "filemd5":"2813D34F6197EB4DF42C886EC7F234A1",
+  "filename":"res2.exe",
+  "structures": {
+    "cls_0x4034d4": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4034da" ]
+	},
+	"0xc": {
+	  "base":false,
+	  "name":"mbr_0xc",
+	  "offset":"0xc",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4034eb" ]
+	}
+      },
+      "methods": {
+	"0x4034d4": {
+	  "demangled_name":"",
+	  "ea":"0x4034d4",
+	  "import":false,
+	  "name":"meth_0x4034d4",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x4034d4",
+      "size":16,
+      "vftables": {}
+    },
+    "cls_0x40376d": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40378b", "0x403793", "0x4037ad", "0x4037e5" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"mbr_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403790", "0x4037af", "0x4037cd", "0x4037ea" ]
+	},
+	"0x8": {
+	  "base":false,
+	  "name":"mbr_0x8",
+	  "offset":"0x8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403785", "0x4037ba", "0x4037d0" ]
+	},
+	"0xc": {
+	  "base":false,
+	  "name":"mbr_0xc",
+	  "offset":"0xc",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403778", "0x4037dd" ]
+	}
+      },
+      "methods": {
+	"0x40376d": {
+	  "demangled_name":"",
+	  "ea":"0x40376d",
+	  "import":false,
+	  "name":"ctor_0x40376d",
+	  "type":"ctor"
+	}
+      },
+      "name":"cls_0x40376d",
+      "size":13,
+      "vftables": {}
+    },
+    "cls_0x40555b": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4055c2" ]
+	}
+      },
+      "methods": {
+	"0x40555b": {
+	  "demangled_name":"",
+	  "ea":"0x40555b",
+	  "import":false,
+	  "name":"meth_0x40555b",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x40555b",
+      "size":4,
+      "vftables": {}
+    }
+  },
+  "vcalls": {},
+  "version":"2.2.0"
+}
